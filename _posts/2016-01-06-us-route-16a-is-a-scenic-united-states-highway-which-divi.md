@@ -1,12 +1,12 @@
 ---
 description: "U.S. Route 16A is a scenic United States highway, which divides from U.S. Route 16 in the Black Hills of South Dakota. The highway's western terminus is a junct"
 author: []
-datePublished: '2016-01-06T04:52:44.604Z'
+datePublished: '2016-01-06T05:05:43.828Z'
 publisher:
   name: ''
   domain: ''
 title: "U.S. Route 16A is a scenic United States highway, which divides from U.S. Route 16 in the Black Hills of South Dakota. The highway's western terminus is a junction with US 16 and US 385 in Custer, South Dakota.  "
-dateModified: '2016-01-06T04:52:15.422Z'
+dateModified: '2016-01-06T04:52:44.604Z'
 sourcePath: _posts/2016-01-06-us-route-16a-is-a-scenic-united-states-highway-which-divi.md
 published: true
 inFeed: true
