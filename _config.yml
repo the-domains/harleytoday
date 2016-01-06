@@ -1,3 +1,4 @@
+favicon: null
 name: HarleyToday
 opengraph:
   image: null
@@ -9,31 +10,30 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.9548245
-  lightness: 0.2010064
+  saturation: 0.6417831
   brandStrength: 0.2851772
+  lightness: 0.2010064
   brandColors:
     - '#80776E'
     - '#BDBEC5'
     - '#0F0B0D'
     - '#EBE8E8'
     - '#BE906E'
-  rhythmicContrast: 0
+  rhythmicContrast: 0.8179377
 typography_spectrum: 0.03813101
 cta:
   version: null
   bucket: null
   domain: null
 layout_spectrum: 0.9479054
-favicon: null
 analytics:
   twitter: null
   facebook: null
