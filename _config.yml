@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  facebook: null
-  google: null
+favicon: null
+name: HarleyToday
 opengraph:
   image: null
   type: null
@@ -21,20 +19,22 @@ collections:
 purpose: []
 color:
   saturation: 0.7180451
-  lightness: 0.7384533
   brandStrength: 0.679377
+  lightness: 0.7384533
   brandColors:
     - '#0176BC'
     - '#D7E0EB'
     - '#384C65'
     - '#6EA4DF'
     - '#15150E'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 typography_spectrum: 0.03813101
+layout_spectrum: 0.9479054
 cta:
   version: null
   bucket: null
   domain: null
-layout_spectrum: 0.9479054
-favicon: null
-name: HarleyToday
+analytics:
+  twitter: null
+  facebook: null
+  google: null
