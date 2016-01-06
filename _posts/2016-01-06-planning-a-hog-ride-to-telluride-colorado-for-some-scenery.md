@@ -1,12 +1,12 @@
 ---
 description: Planning a HOG ride  to Telluride Colorado for some scenery like this.
 author: []
-datePublished: '2016-01-06T04:52:44.387Z'
+datePublished: '2016-01-06T05:05:43.985Z'
 publisher:
   name: ''
   domain: ''
 title: 'Planning a HOG ride  to Telluride Colorado for some scenery like this.  '
-dateModified: '2016-01-06T04:52:09.116Z'
+dateModified: '2016-01-06T04:52:44.387Z'
 sourcePath: _posts/2016-01-06-planning-a-hog-ride-to-telluride-colorado-for-some-scenery.md
 published: true
 inFeed: true
