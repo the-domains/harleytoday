@@ -1,35 +1,19 @@
-layout_spectrum: 0.9479054
-favicon: null
-name: HarleyToday
 purpose: []
-analytics:
-  facebook: null
-  google: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 collections:
   - index:
-      paginate: true
       path: /
       number: 15
+      paginate: true
       navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
     permalink:
       path: '/:title/'
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-cta:
-  domain: null
-  version: null
-  bucket: null
 color:
-  brandStrength: 0.5912997
-  lightness: 0.7384533
   saturation: 0.2185821
+  brandStrength: 0.5912997
   rhythmicContrast: 0.9264232
   brandColors:
     - '#FFFFFA'
@@ -37,4 +21,20 @@ color:
     - '#5C5D53'
     - '#9AA4AC'
     - '#6698E1'
+  lightness: 0.7384533
+analytics:
+  twitter: null
+  facebook: null
+  google: null
+favicon: null
+name: HarleyToday
+cta:
+  version: null
+  bucket: null
+  domain: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 0.03813101
+layout_spectrum: 0.4162191
